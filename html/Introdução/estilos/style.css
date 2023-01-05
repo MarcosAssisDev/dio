@@ -1,0 +1,53 @@
+body {
+    background: #ccc;
+    max-width: 90%;
+    margin: auto;
+}
+
+
+#title,
+.subtitle,
+.post-title {
+    color: black;
+    font-family: Verdana;
+}
+
+#img-post{
+    width: 50%;
+    
+}
+
+.post-title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+    margin-left: 50px;
+}
+
+a{
+    text-decoration: underline;
+    color: gray;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+
+.post {
+    background: #fff;
+    padding: 15px;
+    border: 3px dashed black;
+    border-radius: 10%;
+    margin-bottom: 15px;
+}
+
+.post-contet {
+    padding: 10px;
+    margin: 10px;
+}
+
+#in {
+    border-radius: 15%;
+}
